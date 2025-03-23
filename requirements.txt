@@ -1,2 +1,8 @@
 streamlit
-pandas
+geopandas
+rasterio
+shapely
+numpy
+plotly
+reportlab
+kaleido
